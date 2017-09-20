@@ -1,0 +1,24 @@
+html, head, title, meta, link, script, body, header, img, nav, ul, li, aside, h2, section, h1, figure, p, ol, form, label, input, select, option, footer {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+body {
+    line-height: 1.5;
+}
+
+ol, ul {
+    list-style: none;
+}
+
+img {
+    width: 100%;
+}
+
+aside{
+    margin: 10px;
+}
